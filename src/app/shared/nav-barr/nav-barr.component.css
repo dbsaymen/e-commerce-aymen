@@ -1,0 +1,60 @@
+.info-sec{
+  height: 30px;
+  background-color:#C70A0A;
+}
+
+.info-sec{
+
+}
+
+.info p{
+  display: inline-block;
+  padding: 5px;
+  font-family: 'Inconsolata', monospace;
+  font-size: 12px;
+  color: white;
+  margin: 0px;
+}
+
+.title{
+  font-weight: bold;
+}
+
+#social {
+  margin-top: 3px;
+}
+.smGlobalBtn {
+  display: inline-block;
+  position: relative;
+  width: 35px;
+  height: 25px;
+  color: white;
+}
+
+.crousel img{
+  width: 100%;
+
+}
+
+.menu-barr{
+  width: 100%;
+}
+.navbar-nav li{
+  border-style: solid;
+  border-width: 0 2px 0 0;
+  border-color: #df0808;
+}
+
+.nav-item a{
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.nav-item a:hover{
+  color: white;
+  background-color: #df0808;
+}
+
+.carousel{
+  padding: 0px;
+}
